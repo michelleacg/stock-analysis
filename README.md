@@ -11,7 +11,6 @@ The purpose of Refactoring Code is to help Steve expand through the data set in 
 ### Refactored Code
 
 Sub AllStocksAnalysisRefactored()
-
     Dim startTime As Single
     Dim endTime  As Single
 
