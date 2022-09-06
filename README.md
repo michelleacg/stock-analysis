@@ -127,14 +127,11 @@ Sub AllStocksAnalysisRefactored()
  
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
+    End Sub
 
-End Sub
-
-Sub ClearWorksheet()
-
+    Sub ClearWorksheet()
     Cells.Clear
-    
-End Sub
+    End Sub
 
 ### Results from code
 
