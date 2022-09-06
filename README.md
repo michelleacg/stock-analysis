@@ -1,8 +1,6 @@
-# stock-analysis
+# Stock Analysis
 
 ##VBA of Wall Street
-
-# Refactoring Code
 
 ## Overview of Project
 
