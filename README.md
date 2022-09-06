@@ -151,4 +151,8 @@ In 2018 the results came back as expected, and the code ran in 0.1875 seconds
 
 ### Advantages and disadvantages of refactoring code in general
 
+Advantages of refactoring code in general are that we can improve, and personalize a code to our needs, however a disadvantage is that when we refactor a code that is not made by us, we need to fully understand each part of the code, and what it does so we can make changes, and come back with the results we need in an efficient way. 
+
 ### Advantages and disadvantages of the original and refactored VBA script
+
+Advantages of the original code is that it seemed simpler, however it was not built to analyze a large dataset. The refactored VBA script was faster, however it was more complex to understand. 
