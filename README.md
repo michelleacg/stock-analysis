@@ -1,12 +1,10 @@
 # Stock Analysis
 
-##VBA of Wall Street
-
 ## Overview of Project
 
 ### Purpose
 
-The purpose of Refactoring Code is to help Steve expand through the data set to include the entire stock market over the last couple of years. By refactoring we will if the code will be more efficient.  
+The purpose of Refactoring Code is to help Steve expand through the data set in VBA to include the entire stock market of Wall Street over the last couple of years. By refactoring we will if the code will be more efficient.  
 
 ## Results 
 
